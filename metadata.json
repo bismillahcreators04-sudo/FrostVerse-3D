@@ -1,0 +1,6 @@
+{
+  "name": "FROSTVERSE 3D",
+  "description": "A premium 3D mobile winter adventure game featuring cozy isometric snowy worlds, multiplayer exploration, cozy house building, progression, cinematic vlogging camera, and creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
